@@ -1,0 +1,110 @@
+[
+    {
+        "id": "officeworks-1",
+        "campaign_name": "div-op|ofw|m_cntcd|awareness|all_op-all-subs|product-1_20241011",
+        "cardType": "product-card",
+        "priority": "1",
+        "title": "Lenovo LOQ 15.6\" Core I5 24/512 RTX4050 Gaming Laptop",
+        "offer": null,
+        "previousOffer": null,
+        "promotion": null,
+        "url": "https://www.officeworks.com.au/shop/officeworks/b/onepass-early-access",
+        "contentCardCampaign": "black_friday_24-officeworks-lenovolaptop"
+    },
+    {
+        "id": "officeworks-2",
+        "campaign_name": "div-op|ofw|m_cntcd|awareness|all_op-all-subs|product-2_20241011",
+        "cardType": "product-card",
+        "priority": "5",
+        "title": "Philips Evnia 27\" QHD Gaming Monitor",
+        "offer": null,
+        "previousOffer": null,
+        "promotion": null,
+        "url": "https://www.officeworks.com.au/shop/officeworks/b/onepass-early-access",
+        "contentCardCampaign": "black_friday_24-officeworks-philipsmonitor"
+    },
+    {
+        "id": null,
+        "campaign_name": null,
+        "cardType": null,
+        "priority": null,
+        "title": null,
+        "offer": null,
+        "previousOffer": null,
+        "promotion": null,
+        "url": null,
+        "contentCardCampaign": null
+    },
+    {
+        "id": "",
+        "campaign_name": "",
+        "cardType": "",
+        "priority": "",
+        "title": "",
+        "offer": "",
+        "previousOffer": "",
+        "promotion": "",
+        "url": "",
+        "contentCardCampaign": ""
+    },
+    {
+        "id": "",
+        "campaign_name": "",
+        "cardType": "",
+        "priority": "",
+        "title": "",
+        "offer": "",
+        "previousOffer": "",
+        "promotion": "",
+        "url": "",
+        "contentCardCampaign": ""
+    },
+    {
+        "id": "",
+        "campaign_name": "",
+        "cardType": "",
+        "priority": "",
+        "title": "",
+        "offer": "",
+        "previousOffer": "",
+        "promotion": "",
+        "url": "",
+        "contentCardCampaign": ""
+    },
+    {
+        "id": "",
+        "campaign_name": "",
+        "cardType": "",
+        "priority": "",
+        "title": "",
+        "offer": "",
+        "previousOffer": "",
+        "promotion": "",
+        "url": "",
+        "contentCardCampaign": ""
+    },
+    {
+        "id": "",
+        "campaign_name": "",
+        "cardType": "",
+        "priority": "",
+        "title": "",
+        "offer": "",
+        "previousOffer": "",
+        "promotion": "",
+        "url": "",
+        "contentCardCampaign": ""
+    },
+    {
+        "id": "",
+        "campaign_name": "",
+        "cardType": "",
+        "priority": "",
+        "title": "",
+        "offer": "",
+        "previousOffer": "",
+        "promotion": "",
+        "url": "",
+        "contentCardCampaign": ""
+    }
+]
